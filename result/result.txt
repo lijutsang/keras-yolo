@@ -1,0 +1,77 @@
+airplane.jpg detect_result£º
+find  1 target(s) 
+aeroplane  score: 0.97449225 
+location: top: 178¡¢ bottom: 673¡¢ left: 359¡¢ right: 1286
+
+banana.jpg detect_result£º
+find  4 target(s) 
+diningtable  score: 0.8638878 
+location: top: 15¡¢ bottom: 721¡¢ left: 39¡¢ right: 1053
+banana  score: 0.99964327 
+location: top: 257¡¢ bottom: 633¡¢ left: 195¡¢ right: 436
+spoon  score: 0.61134654 
+location: top: 321¡¢ bottom: 415¡¢ left: 628¡¢ right: 932
+bottle  score: 0.6719577 
+location: top: 26¡¢ bottom: 381¡¢ left: 727¡¢ right: 896
+
+bicycle.jpg detect_result£º
+find  1 target(s) 
+bicycle  score: 0.9982175 
+location: top: 214¡¢ bottom: 838¡¢ left: 195¡¢ right: 1148
+
+cat.jpg detect_result£º
+find  1 target(s) 
+cat  score: 0.9940428 
+location: top: 95¡¢ bottom: 1076¡¢ left: 740¡¢ right: 1256
+
+cow.jpg detect_result£º
+find  2 target(s) 
+cow  score: 0.99442637 
+location: top: 261¡¢ bottom: 628¡¢ left: 324¡¢ right: 884
+sheep  score: 0.95843494 
+location: top: 225¡¢ bottom: 362¡¢ left: 75¡¢ right: 245
+
+elephant.jpg detect_result£º
+find  3 target(s) 
+elephant  score: 0.74877334 
+location: top: 283¡¢ bottom: 465¡¢ left: 172¡¢ right: 356
+elephant  score: 0.84924346 
+location: top: 276¡¢ bottom: 462¡¢ left: 726¡¢ right: 887
+elephant  score: 0.9562099 
+location: top: 224¡¢ bottom: 620¡¢ left: 333¡¢ right: 823
+
+fish.jpg detect_result£º
+find  0 target(s) 
+
+mac.jpg detect_result£º
+find  4 target(s) 
+laptop  score: 0.96462935 
+location: top: 0¡¢ bottom: 225¡¢ left: 1089¡¢ right: 1500
+laptop  score: 0.9652409 
+location: top: 0¡¢ bottom: 942¡¢ left: 304¡¢ right: 1461
+diningtable  score: 0.9069218 
+location: top: 155¡¢ bottom: 1000¡¢ left: 247¡¢ right: 1474
+person  score: 0.9680536 
+location: top: 263¡¢ bottom: 776¡¢ left: 0¡¢ right: 760
+
+person.jpg detect_result£º
+find  6 target(s) 
+person  score: 0.64755166 
+location: top: 613¡¢ bottom: 751¡¢ left: 268¡¢ right: 397
+person  score: 0.8012257 
+location: top: 567¡¢ bottom: 639¡¢ left: 739¡¢ right: 808
+person  score: 0.8788441 
+location: top: 158¡¢ bottom: 241¡¢ left: 971¡¢ right: 1018
+person  score: 0.95583004 
+location: top: 653¡¢ bottom: 768¡¢ left: 711¡¢ right: 839
+person  score: 0.9905318 
+location: top: 230¡¢ bottom: 755¡¢ left: 0¡¢ right: 391
+person  score: 0.9998415 
+location: top: 37¡¢ bottom: 755¡¢ left: 273¡¢ right: 949
+
+ship.jpg detect_result£º
+find  1 target(s) 
+boat  score: 0.9206037 
+location: top: 90¡¢ bottom: 436¡¢ left: 360¡¢ right: 930
+
+time sum: 211.5762267112732s
