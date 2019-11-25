@@ -3,7 +3,7 @@
     - Keras 2.3.1
     - tensorflow 1.14.0
 
-
+![image](https://github.com/lijutsang/keras-yolo/blob/master/result/result_airplane.jpg)
 使用 yolo_test.py 测试test文件夹中的图片，在result文件夹输出
 ```
 python yolo_test.py
