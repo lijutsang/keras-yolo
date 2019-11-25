@@ -1,13 +1,15 @@
-1. 使用python环境
+# 使用
+1 使用python环境
     - Python 3.6.2
     - Keras 2.3.1
     - tensorflow 1.14.0
+使用 yolo_test.py 测试test文件夹中的图片，在result文件夹输出
 ```
 python yolo_test.py
 ```
 ![image](https://github.com/lijutsang/keras-yolo/blob/master/result/result_airplane.jpg)
 ![image](https://github.com/lijutsang/keras-yolo/blob/master/result/result_elephant.jpg)
-使用 yolo_test.py 测试test文件夹中的图片，在result文件夹输出
+
 # keras-yolo3
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
