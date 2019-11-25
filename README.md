@@ -5,7 +5,9 @@
 
 
 使用 yolo_test.py 测试test文件夹中的图片，在result文件夹输出
-
+```
+python yolo_test.py
+```
 # keras-yolo3
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
