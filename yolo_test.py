@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-
-
 import colorsys
 import os
 from timeit import default_timer as timer

@@ -6,6 +6,7 @@
 
 
 使用 yolo_test.py 测试test文件夹中的图片，在result文件夹输出
+将需要测试的图片放在tets文件夹下
 ```
 python yolo_test.py
 ```
