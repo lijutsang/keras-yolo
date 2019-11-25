@@ -83,7 +83,7 @@ If you want to use original pretrained weights for YOLOv3:
 
 1. The test environment is
     - Python 3.6.2
-    - Keras 2.1.5
+    - Keras 2.3.1
     - tensorflow 1.14.0
 
 2. Default anchors are used. If you use your own anchors, probably some changes are needed.
